@@ -1,0 +1,25 @@
+@font-face{
+    font-family: myFont;
+    src:url(inter.ttf)
+}
+
+h5{
+    font-family: myFont;
+
+}
+
+@font-face {
+    font-family: myFonts;
+    src: url(Sansita.b.ttf);
+}
+
+H2{
+    font-family: myFonts;
+
+
+}
+
+.btn btn-primary {
+    background-color: #A3CFBB;
+    border: 2px solid #fff
+}
